@@ -24,6 +24,8 @@ This application allows users to:
 - Basic application structure is in place
 - Git repository is set up
 - Application can be started with `npm start`
+- CLI interface is implemented with placeholder functionality
+- YouTube API integration is stubbed out
 - Dependencies need to be installed
 
 ### Next Steps
@@ -47,7 +49,16 @@ This application allows users to:
 
 ## Usage
 
-(To be added as development progresses)
+Currently, the application has placeholder functionality:
+
+```bash
+# Start the application
+npm start
+
+# Follow the prompts to enter a YouTube video URL or ID
+```
+
+Full functionality will be implemented once dependencies are installed.
 
 ## Technologies Used
 
